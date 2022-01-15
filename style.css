@@ -1,0 +1,29 @@
+.main-area{
+    /* background: red; */
+    width: 960px;
+    margin: 0 auto;
+}
+.sajek{
+    background-color: rgb(25, 221, 221);
+    border: 2px dashed hsl(0, 100%, 50%);
+    border-radius: 20px;
+    margin-bottom:30px;
+    padding: 15px;
+}
+.sajek h3{
+    text-align: center;
+    font-size: 2em;
+   font-family: serif;
+}
+.sajek p{
+    text-align: justify;
+}
+.sundorbon{
+    background-color: green;
+}
+.santMartin{
+    background-color: #fbe;
+}
+.author-name{
+    color: red;
+}
